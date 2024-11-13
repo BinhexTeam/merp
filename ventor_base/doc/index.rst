@@ -10,8 +10,9 @@ Change Log
 
 |
 
-* 1.8.0 (2024-xx-xx)
+* 2.0.0 (2024-xx-xx)
     - Added the settings "Fast printing" to the Quick Info menu
+    - Added the "Quality check per product line" setting to Warehouse Opration, Batch Picking, Cluster Picking, Wave Picking menus
 
 * 1.7.0 (2024-08-21)
     - Added the settings "Apply all lines automatically", "Hide product's quantity", "Hide Apply button" to the RFID Inventory Adjustments menu
